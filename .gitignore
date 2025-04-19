@@ -1,0 +1,11 @@
+# Ignorar dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+
+# Archivos de cobertura (si usas cobertura de tests)
+coverage/
+
+# Archivos de entorno (si algún día agregas un .env)
+.env
